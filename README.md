@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://komarev.com/ghpvc/?username=comic-racoon&label=Profile%20views&color=0e75b6&style=flat" alt="comic-racoon" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&pause=1000&center=true&color=88C0D0&vCenter=true&random=false&width=850&lines=Hello+There!+%F0%9F%91%8B;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+%F0%9F%99%8F%F0%9F%8F%BB+;My+Name+Is+Rahul+!;Nice+to+meet+you..)](https://git.io/typing-svg)
 
